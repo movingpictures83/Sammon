@@ -1,0 +1,2 @@
+Prefix plugins/Sammon/example/
+Plugin Sammon inputfile iris.pkl outputfile output.png
